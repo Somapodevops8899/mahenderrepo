@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Internal Styles</title>
+<style>
+  body {
+    background-color: #f0f8ff; /* AliceBlue */
+    font-family: sans-serif;
+  }
+  h1 {
+    color: #00008b; /* DarkBlue */
+    text-align: center;
+  }
+  p {
+    color: #333;
+    font-size: 16px;
+  }
+</style>
+</head>
+<body>
+<h1>Welcome!</h1>
+<p>This text is styled with internal CSS.</p>
+</body>
+</html>
